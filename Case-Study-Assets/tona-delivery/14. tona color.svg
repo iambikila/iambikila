@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 509.61 225.52">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0 {
+        opacity: .2;
+      }
+
+      .st0, .st1, .st2, .st3, .st4 {
+        fill: #ba3300;
+      }
+
+      .st2 {
+        opacity: .6;
+      }
+
+      .st3 {
+        opacity: .4;
+      }
+
+      .st4 {
+        opacity: .8;
+      }
+    </style>
+  </defs>
+  <path class="st1" d="M39.47,12.39h430.67c13.41,0,24.3,10.89,24.3,24.3v116.37H15.17V36.69c0-13.41,10.89-24.3,24.3-24.3Z"/>
+  <path class="st1" d="M15.17,156.21h95.85v56.92H34.71c-10.78,0-19.54-8.76-19.54-19.54v-37.38h0Z"/>
+  <rect class="st4" x="111.02" y="156.21" width="95.85" height="56.92"/>
+  <rect class="st2" x="206.88" y="156.21" width="95.85" height="56.92"/>
+  <rect class="st3" x="302.73" y="156.21" width="95.85" height="56.92"/>
+  <path class="st0" d="M418.12,156.21h76.31v56.92h-95.85v-37.38c0-10.78,8.76-19.54,19.54-19.54Z" transform="translate(893.02 369.34) rotate(180)"/>
+</svg>
